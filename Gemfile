@@ -14,7 +14,7 @@ gem 'bootstrap'
 gem 'jquery-rails'
 gem 'acts_as_votable'
 gem "font-awesome-rails"
-gem 'cloudinary', require: false
+gem 'cloudinary'
 gem 'activestorage-cloudinary-service'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'mini_racer', platforms: :ruby
